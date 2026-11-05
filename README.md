@@ -5,7 +5,7 @@ Data Scientist
 --------------
 
 *   🌍  I'm based in india
-*   ✉️  You can contact me at [rohithar835@gmail.com](mailto:reddyrohitha603@gmail.com)
+*   ✉️  You can contact me at [rohitharangareddigari@gmail.com](mailto:reddyrohitha603@gmail.com)
 *   🧠  I'm learning Data science
 *   🤝  I'm open to collaborating on Machine Learnig projects
 *   ⚡  i want to learning newthings### Skills<p align="left">
